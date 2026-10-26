@@ -1,0 +1,12 @@
+node_modules
+.output
+.nitro
+dist
+.env
+.env.local
+.convex
+.tanstack
+*.log
+.DS_Store
+.playwright-mcp
+screenshots
